@@ -8,4 +8,4 @@
 
 
 ##Click here to view bug report sheet
-[Click here to view Bug Sheet](https://docs.google.com/spreadsheets/d/14RJjh0PGVfbkpoXoh-8DEzCtTUhc530NmEKs-pivOME/edit?gid=112296481#gid=112296481)
+[Bug Report Sheet](https://docs.google.com/spreadsheets/d/14RJjh0PGVfbkpoXoh-8DEzCtTUhc530NmEKs-pivOME/edit?gid=112296481#gid=112296481)
