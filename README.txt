@@ -1,17 +1,29 @@
-# Guru99 Banking Project – Manual Testing
+# 📌 Guru99 Banking Website – Manual Testing Project  
 
-## Project Summary
-Manual testing project for the Guru99 Banking demo website.
-The project focuses on practicing software testing activities such as requirement analysis, test case design, test execution, and defect reporting.
+## 📖 Overview  
+Manual testing project conducted on the :contentReference[oaicite:0]{index=0} to validate system functionality and ensure quality across multiple releases.  
 
-## Activities
-- Analyzed the application requirements and identified testable features.
-- Created test scenarios for the main modules.
-- Designed detailed test cases including preconditions, steps, and expected results.
-- Executed test cases and documented actual results.
-- Reported defects with clear reproduction steps.
-- Performed positive and negative testing.
-- Prepared a test summary report.
+## 🧪 Activities Performed  
+- Conducted **Static Testing** by reviewing the SRS for completeness and testability  
+- Designed and documented **test cases** using Google Sheets  
+- Executed test cases and reported defects during **Release 1**  
+- Performed testing across **4 releases**  
+- Applied **Regression Testing** from Release 2 onward to ensure stability  
 
-## Tools
-- Google Sheets / Excel
+## 🛠️ Tools  
+- Google Sheets  
+- Manual Testing Practices  
+
+## 📂 Project Structure  
+
+├── Project Sheet
+│   ├── Test Cases (Google Sheets Link)
+│   └── Bug Reports (Google Sheets Link)
+│
+└── SRS Document
+    └── SRS Document File
+
+
+## 🚀 Skills Demonstrated  
+Manual Testing • Test Case Design • Test Execution • Bug Reporting • Regression Testing  
+
